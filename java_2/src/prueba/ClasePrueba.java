@@ -1,5 +1,7 @@
 package prueba;
 
+import java.util.Scanner;
+
 public class ClasePrueba {
 
 	public static void main(String[] args) {
